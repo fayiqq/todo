@@ -28,13 +28,6 @@ A full-featured todo list application with user registration, login, and task ma
 - **Frontend**: Bootstrap 5, Bootstrap Icons
 - **Other**: method-override, connect-flash, express-session
 
-## Group Members
 
-| En.  No. | Name            |
-|----------|-----------------|
-| 051      | Kamran          |
-| 001      | Hatim           |
-| 035      | Fayiq           |
-| 025      | Sikander        |
 
 
